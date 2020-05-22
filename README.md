@@ -3,9 +3,9 @@
 this repo is download from [cache-from-zip](https://serviceworke.rs/cache-from-zip/index.html)
 
 ## reference
-mdn.io/Using_Service_Workers
-https://serviceworke.rs/
-https://serviceworke.rs/cache-from-zip_worker_doc.html
+[Using_Service_Workers](mdn.io/Using_Service_Workers)  
+[serviceworke](https://serviceworke.rs/)  
+[cache-from-zip_worker_doc](https://serviceworke.rs/cache-from-zip_worker_doc.html)
 
 ## start
 
